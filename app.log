@@ -1,0 +1,14 @@
+2026-04-26 12:19:27,893 - INFO - Default rate: 20.60%
+2026-04-26 12:19:28,055 - ERROR - Error analyzing correlations: could not convert string to float: 'M'
+2026-04-26 13:08:53,832 - ERROR - Query Error: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`microfinance_db`.`borrowers`, CONSTRAINT `borrowers_ibfk_1` FOREIGN KEY (`branch_id`) REFERENCES `branches` (`branch_id`))
+2026-04-26 13:10:00,383 - ERROR - Query Error: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`microfinance_db`.`borrowers`, CONSTRAINT `borrowers_ibfk_1` FOREIGN KEY (`branch_id`) REFERENCES `branches` (`branch_id`))
+2026-04-26 13:13:09,541 - INFO - package: mysql.connector.plugins
+2026-04-26 13:13:09,542 - INFO - plugin_name: mysql_native_password
+2026-04-26 13:13:09,550 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-26 13:14:11,101 - ERROR - Query Error: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`microfinance_db`.`borrowers`, CONSTRAINT `borrowers_ibfk_1` FOREIGN KEY (`branch_id`) REFERENCES `branches` (`branch_id`))
+2026-04-26 13:14:11,102 - ERROR - Failed to insert borrower - no rows affected
+2026-04-26 13:51:07,435 - INFO - Connecting to cluster0.fkkzcvz.mongodb.net
+2026-04-26 14:07:52,587 - INFO - Connecting to cluster0.fkkzcvz.mongodb.net
+2026-04-26 14:08:06,941 - INFO - Connecting to cluster0.fkkzcvz.mongodb.net
+2026-04-26 14:08:27,151 - INFO - Connecting to cluster0.fkkzcvz.mongodb.net
+2026-04-26 14:23:07,485 - INFO - Connecting to cluster0.fkkzcvz.mongodb.net
