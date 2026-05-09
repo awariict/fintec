@@ -6,3 +6,5 @@ scikit-learn>=1.5.0
 joblib>=1.4.0
 Werkzeug>=3.0.0
 plotly>=5.22.0
+seaborn>=0.13.2
+matplotlib>=3.9.0
